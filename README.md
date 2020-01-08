@@ -21,8 +21,6 @@ After taking care of patients with a drug addiction, celebrating their success s
 ## Analysis
 ![Top 20 states](https://user-images.githubusercontent.com/52727399/72004803-cc33c880-3211-11ea-8d0f-3f1f60d87d8f.png)
 
-Presentation:
-file:///C:/Users/terry/Desktop/Powerpoint%20Presentation.pdf
 
 
 ### Data Sources
