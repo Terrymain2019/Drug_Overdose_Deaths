@@ -1,4 +1,5 @@
 # Opioid Epidemic in the United States 
+![opioid-crisis map](https://user-images.githubusercontent.com/52727399/71946262-e6789280-318e-11ea-9b14-d1148968f989.jpg)
 
 ## Introduction
 The national rate of drug overdose deaths over the last decade is increasing rapidly. The idea behind my project is to analyze data to see whether these deaths are linked to opiates prescriptions or opioids used as recreational. Can we see any correlation between these deaths and the rate of opiates prescribing? 
