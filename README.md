@@ -1,5 +1,7 @@
 # Opioid Epidemic in the U.S
 
+![opioid-crisis map](https://user-images.githubusercontent.com/52727399/72008574-be824100-3219-11ea-9aec-71f664510cfe.jpg)
+
 ## Introduction
 As of  October 16, 2017, the National Institutes of Health declared the opioid epidemic a public health emergency.   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5993682/
 The national rate of drug overdose deaths over the last decade is increasing rapidly. The idea behind my project is to analyze data to see whether these deaths are linked to opiates prescriptions or illegal opioids. Is there a correlation between the death count and the opiates prescription count? 
